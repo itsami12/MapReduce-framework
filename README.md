@@ -1,5 +1,5 @@
 # MapReduce Framework Implementation
-
+  
 This project demonstrates the implementation of a basic **MapReduce framework** using C/C++. It showcases parallel processing concepts, including concurrency and synchronization, to handle distributed data processing tasks. The primary goal is to process text data to count word frequencies.
 
 ---
